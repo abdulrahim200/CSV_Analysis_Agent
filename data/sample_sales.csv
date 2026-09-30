@@ -1,0 +1,37 @@
+order_id,order_date,region,city,category,product,customer_segment,units,unit_price,revenue,cost,profit
+1001,2026-01-05,North,Delhi,Electronics,Wireless Mouse,Consumer,38,799,30362,18240,12122
+1002,2026-01-08,West,Mumbai,Office,Notebook Pack,Corporate,120,149,17880,10440,7440
+1003,2026-01-13,South,Bengaluru,Electronics,USB-C Hub,Startup,25,2199,54975,39250,15725
+1004,2026-01-21,East,Kolkata,Furniture,Ergonomic Chair,Corporate,11,8499,93489,67100,26389
+1005,2026-02-02,North,Jaipur,Office,Desk Organizer,Consumer,75,499,37425,22125,15300
+1006,2026-02-09,West,Pune,Electronics,Wireless Keyboard,Startup,32,1599,51168,33600,17568
+1007,2026-02-15,South,Hyderabad,Furniture,Standing Desk,Corporate,8,17999,143992,104000,39992
+1008,2026-02-24,East,Bhubaneswar,Office,Printer Paper,Consumer,210,399,83790,58800,24990
+1009,2026-03-03,North,Lucknow,Electronics,Noise Cancelling Headset,Corporate,18,4999,89982,59400,30582
+1010,2026-03-10,West,Ahmedabad,Furniture,Monitor Arm,Startup,45,2399,107955,69750,38205
+1011,2026-03-18,South,Chennai,Office,Whiteboard Markers,Consumer,160,199,31840,17600,14240
+1012,2026-03-26,East,Patna,Electronics,Webcam HD,Corporate,22,2999,65978,42900,23078
+1013,2026-04-04,North,Chandigarh,Furniture,Ergonomic Chair,Startup,13,8499,110487,79300,31187
+1014,2026-04-11,West,Surat,Electronics,USB-C Hub,Consumer,41,2199,90159,64370,25789
+1015,2026-04-19,South,Kochi,Office,Notebook Pack,Corporate,145,149,21605,12615,8990
+1016,2026-04-28,East,Ranchi,Furniture,Standing Desk,Startup,6,17999,107994,78000,29994
+1017,2026-05-06,North,Delhi,Electronics,Wireless Keyboard,Consumer,54,1599,86346,56700,29646
+1018,2026-05-14,West,Mumbai,Office,Desk Organizer,Corporate,95,499,47405,28025,19380
+1019,2026-05-22,South,Bengaluru,Furniture,Monitor Arm,Startup,52,2399,124748,80600,44148
+1020,2026-05-30,East,Kolkata,Electronics,Noise Cancelling Headset,Corporate,27,4999,134973,89100,45873
+1021,2026-06-05,North,Jaipur,Office,Printer Paper,Consumer,230,399,91770,64400,27370
+1022,2026-06-12,West,Pune,Furniture,Ergonomic Chair,Corporate,16,8499,135984,97600,38384
+1023,2026-06-18,South,Hyderabad,Electronics,Webcam HD,Startup,35,2999,104965,68250,36715
+1024,2026-06-27,East,Bhubaneswar,Office,Whiteboard Markers,Consumer,190,199,37810,20900,16910
+1025,2026-07-07,North,Lucknow,Furniture,Standing Desk,Corporate,9,17999,161991,117000,44991
+1026,2026-07-15,West,Ahmedabad,Electronics,Wireless Mouse,Consumer,70,799,55930,33600,22330
+1027,2026-07-21,South,Chennai,Office,Notebook Pack,Startup,180,149,26820,15660,11160
+1028,2026-07-29,East,Patna,Furniture,Monitor Arm,Corporate,38,2399,91162,58900,32262
+1029,2026-08-04,North,Chandigarh,Electronics,USB-C Hub,Consumer,49,2199,107751,76930,30821
+1030,2026-08-13,West,Surat,Office,Desk Organizer,Startup,110,499,54890,32450,22440
+1031,2026-08-20,South,Kochi,Electronics,Wireless Keyboard,Corporate,44,1599,70356,46200,24156
+1032,2026-08-28,East,Ranchi,Furniture,Ergonomic Chair,Consumer,14,8499,118986,85400,33586
+1033,2026-09-03,North,Delhi,Office,Printer Paper,Corporate,260,399,103740,72800,30940
+1034,2026-09-10,West,Mumbai,Electronics,Noise Cancelling Headset,Startup,31,4999,154969,102300,52669
+1035,2026-09-16,South,Bengaluru,Furniture,Standing Desk,Corporate,12,17999,215988,156000,59988
+1036,2026-09-24,East,Kolkata,Office,Whiteboard Markers,Consumer,220,199,43780,24200,19580

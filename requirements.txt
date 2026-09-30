@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.2
+openpyxl>=3.1
+python-dotenv>=1.0.1
+agno>=1.0.0
+agno>=1.8
+duckdb>=1.1
+google-genai>=1.0
+groq>=1.7.0
